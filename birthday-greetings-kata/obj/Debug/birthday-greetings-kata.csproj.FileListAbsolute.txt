@@ -7,3 +7,11 @@ C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings
 C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday-greetings-kata.csproj.CopyComplete
 C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday_greetings_kata.dll
 C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday_greetings_kata.pdb
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\Castle.Core.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\Moq.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\Castle.Core.xml
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\Moq.xml
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\System.Threading.Tasks.Extensions.xml

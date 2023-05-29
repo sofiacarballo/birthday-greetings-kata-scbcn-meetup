@@ -56,9 +56,12 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="BirthdayGreetingsTest.cs" />
-        <Compile Include="IDateTimeProvider.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="src\BirthdayGreetingsGenerator.cs" />
+        <Compile Include="src\IDateTimeProvider.cs" />
+        <Compile Include="src\IFinder.cs" />
+        <Compile Include="src\IMessageSender.cs" />
+        <Compile Include="tests\BirthdayGreetingsTest.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />
