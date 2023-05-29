@@ -1,0 +1,9 @@
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\birthday_greetings_kata.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\birthday_greetings_kata.pdb
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\nunit.framework.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\bin\Debug\nunit.framework.xml
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday-greetings-kata.csproj.AssemblyReference.cache
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday-greetings-kata.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday-greetings-kata.csproj.CopyComplete
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday_greetings_kata.dll
+C:\Users\Sofia\Desktop\Projects\katas\birthday-greetings-kata\birthday-greetings-kata\obj\Debug\birthday_greetings_kata.pdb
